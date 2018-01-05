@@ -1,2 +1,2 @@
-# gopher-requests
+# Gopher-Requests
 Custom HTTP client for Golang
