@@ -29,3 +29,6 @@ err := client.Get("/dog").Header("User-Agent", "<Name>").Header("Content-Type", 
 ```
 
 Please see `example` for another usage example
+
+## Licensing
+This software is available under the MIT License.
